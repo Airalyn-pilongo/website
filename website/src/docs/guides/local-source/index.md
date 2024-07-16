@@ -1,4 +1,4 @@
----
+https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json
 title: Local source
 titleTemplate: Guides
 description: For users who would like to download and organize their own media.
