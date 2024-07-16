@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json
 ---
 title: Local source
 titleTemplate: Guides
